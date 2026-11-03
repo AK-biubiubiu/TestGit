@@ -1,0 +1,9 @@
+{
+  "name": "demo-calc",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
